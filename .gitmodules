@@ -4,3 +4,6 @@
 [submodule "GameProgramBooks"]
 	path = GameProgramBooks
 	url = https://github.com/Asuka109/GameProgramBooks.git
+[submodule "C_Programming"]
+	path = C_Programming
+	url = https://github.com/briankoksal/C.git
